@@ -1,5 +1,4 @@
-#Set working directory
-setwd("E:/Acads/UT Dallas/Econometrics/Moran Blueshtein/Homeworks/HW2")
+#This code is the working exmple for the problem 2.14 of the book.
 
 #Load libraries
 library(foreign)
